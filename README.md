@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ProjectA
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
@@ -31,3 +32,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # angular-cli
 angular-cli
 >>>>>>> aa137b7c472422dc32ae018d67a6363fe70c6d98
+=======
+# abc
+>>>>>>> 6623fd9961f83826cc595fb43f61ea6dbb30cd70
