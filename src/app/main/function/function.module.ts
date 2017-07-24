@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { MainComponent } from './main.component';
+import { FunctionComponent } from './function.component';
 
 @NgModule({
   imports: [
     CommonModule
   ],
-  declarations: [MainComponent]
+  declarations: [FunctionComponent]
 })
-export class MainModule { }
+export class FunctionModule { }
